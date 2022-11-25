@@ -31,7 +31,6 @@
 *{
     margin: 0;
     padding: 0;
-    /* overflow: hidden; */
 }
 body{
     font-family: 'Poppins', sans-serif;
@@ -43,6 +42,7 @@ body{
     margin: 0;
     padding: 0;
    overflow-x: hidden;
+   /* overflow-y: hidden; */
 }
 
 div{
@@ -176,7 +176,7 @@ nav .menu-bar i{
 
 @media only screen and (max-width: 700px) {
     nav{
-        padding: 20px;
+        padding: 1rem 2rem !important;
     }
     nav .menu-bar{
         display: inline;
