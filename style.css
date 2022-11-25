@@ -222,13 +222,13 @@ nav .menu-bar i{
 
 @media only screen and (max-width: 700px) {
     .display{
-        height: 60vh;
+        height: 85vh;
     }
     .display h6{
-        font-size: 20px;
+        font-size: 18px;
     }
     .display h1{
-        font-size: 40px;
+        font-size: 30px;
     }
 }
 
