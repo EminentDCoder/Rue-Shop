@@ -157,12 +157,12 @@ nav .icons .cart{
 nav .icons .cart span{
     display: block;
     position: absolute;
-    top: -16px;
-    left: 25px;
+    top: -14px;
+    left: 20px;
     background-color: var(--light);
-    font-size: 0.66rem;
+    font-size: 0.6rem;
     border-radius: 100%;
-    padding: 0.1px 8px;
+    padding: 0px 8px;
     color: #fff;
 }
 nav .menu-bar{
@@ -183,7 +183,7 @@ nav .menu-bar i{
     }
     nav ul{
         display: none;
-        background-color:#f8c24d;
+        background-color: var(--main);
         text-align: right;
         position: absolute;
         top: 50px;
@@ -201,8 +201,8 @@ nav .menu-bar i{
 
 
 /* DISPLAY PAGE STYLES */
-#display{
-    background-image: url('images/bg3.jpg');
+#home{
+    background-image: url("images/bg3.jpg");
 }
 .display{
     width: 100%;
