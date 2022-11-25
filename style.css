@@ -201,9 +201,6 @@ nav .menu-bar i{
 
 
 /* DISPLAY PAGE STYLES */
-#home{
-    background-image: url("images/bg3.jpg");
-}
 .display{
     width: 100%;
     height: 90vh;
